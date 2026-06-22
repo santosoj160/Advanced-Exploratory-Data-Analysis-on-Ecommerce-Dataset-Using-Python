@@ -34,6 +34,10 @@ The project covers the complete EDA workflow, including:
 ---
 
 ## Dataset Information
+Dataset: ecommerce
+
+Source:
+(ecommerce)
 
 The dataset contains E-commerce transaction records including:
 
