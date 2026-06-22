@@ -35,7 +35,7 @@ The project covers the complete EDA workflow, including:
 
 ## Dataset Information
 
-Dataset: - `ecommerce.csv`
+📄 Dataset: [ecommerce.csv](ecommerce.csv)
 
 The dataset contains E-commerce transaction records including:
 
